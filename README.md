@@ -1,2 +1,2 @@
 # AI-Pipelines
-This repository constitutes of production level pipelines for ML, DL, CV &amp; NLP
+This repository constitutes of production level pipelines for DS, ML, DL, CV &amp; NLP
